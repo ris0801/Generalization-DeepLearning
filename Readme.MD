@@ -25,5 +25,5 @@ Provide instructions on how to run and use your project. Include code snippets a
 Provide a brief description of the structure of your repository. Explain the purpose of the main directories and files.
 
 ## Reproduced Papers
-Understanding Deep Learning Requires Rethinking Generalization : https://arxiv.org/pdf/1611.03530.pdf
-A Closer Look at Memorization in Deep Networks : https://arxiv.org/abs/1706.05394
+1. Understanding Deep Learning Requires Rethinking Generalization : https://arxiv.org/pdf/1611.03530.pdf
+2. A Closer Look at Memorization in Deep Networks : https://arxiv.org/abs/1706.05394
