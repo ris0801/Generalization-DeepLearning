@@ -10,11 +10,6 @@ This repository is dedicated to the exploration and analysis of generalization a
 5. [Results and Observations](#results-and-observations)
 6. [Repository Structure](#repository-structure)
 7. [Reproduced Papers](#reproduced-papers)
-8. [Dependencies](#dependencies)
-9. [Contributing](#contributing)
-10. [License](#license)
-11. [Contact](#contact)
-12. [Acknowledgements](#acknowledgements)
 
 
 ## Introduction
@@ -43,15 +38,15 @@ Usage
 
 Provide instructions on how to run and use your project. Include code snippets and examples for better clarity.
 
-##Results and Observations
+## Results and Observations
 [Back to Table of Contents](#table-of-contents)
 We have documented our results and observations in a Google Doc. Here, you will find a comprehensive analysis of the experiments conducted, along with discussions and interpretations of the results.
 
-##Repository Structure
+## Repository Structure
 [Back to Table of Contents](#table-of-contents)
 Provide a brief description of the structure of your repository. Explain the purpose of the main directories and files.
 
-##Reproduced Papers
+## Reproduced Papers
 [Back to Table of Contents](#table-of-contents)
 Understanding Deep Learning Requires Rethinking Generalization (paper link)
 Brief summary of the paper
