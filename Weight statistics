@@ -1,0 +1,326 @@
+Weight stats 
+
+FOR ACTUAL DATA:
+
+Before starting
+Mean: 0.0002881206455640495
+Standard Deviation: 0.06644987314939499
+Minimum: -0.11541260778903961
+Maximum: 0.115450419485569
+
+
+Statistics of the weights for Conv2:
+Mean: -6.790382940380368e-06
+Standard Deviation: 0.008163905702531338
+Minimum: -0.014142010360956192
+Maximum: 0.014142097905278206
+
+
+After epoch 1:
+Mean: -0.0007273067603819072
+Standard Deviation: 0.07057127356529236
+Minimum: -0.21299132704734802
+Maximum: 0.18120236694812775
+
+
+Statistics of the weights for Conv2:
+Mean: -0.00042385217966511846
+Standard Deviation: 0.00932935532182455
+Minimum: -0.041855644434690475
+Maximum: 0.08128233999013901
+
+After epoch 5:
+Statistics of the weights For Conv1:
+Mean: -0.0009196451865136623
+Standard Deviation: 0.0857941284775734
+Minimum: -0.33856824040412903
+Maximum: 0.3077523708343506
+
+
+Statistics of the weights for Conv2:
+Mean: -0.0008090769988484681
+Standard Deviation: 0.012441563419997692
+Minimum: -0.06778432428836823
+Maximum: 0.16747154295444489
+
+After epoch 10
+Mean: -0.0008164801402017474
+Standard Deviation: 0.096083864569664
+Minimum: -0.4098498523235321
+Maximum: 0.3606652319431305
+
+
+Statistics of the weights for Conv2:
+Mean: -0.001171993208117783
+Standard Deviation: 0.015043193474411964
+Minimum: -0.08921845257282257
+Maximum: 0.22281339764595032
+
+After epoch 15
+Statistics of the weights For Conv1:
+Mean: -0.0009962357580661774
+Standard Deviation: 0.10122682899236679
+Minimum: -0.44010835886001587
+Maximum: 0.3737686276435852
+
+
+Statistics of the weights for Conv2:
+Mean: -0.001323345466516912
+Standard Deviation: 0.01639314740896225
+Minimum: -0.09803301841020584
+Maximum: 0.2484959214925766
+
+After epoch 20:
+Statistics of the weights For Conv1:
+Mean: -0.0009058729629032314
+Standard Deviation: 0.1013517752289772
+Minimum: -0.4372338652610779
+Maximum: 0.38021305203437805
+
+
+Statistics of the weights for Conv2:
+Mean: -0.0013168035075068474
+Standard Deviation: 0.016427883878350258
+Minimum: -0.10011918097734451
+Maximum: 0.24643787741661072
+
+After epoch 25:
+Statistics of the weights For Conv1:
+Mean: -0.0009873489616438746
+Standard Deviation: 0.10138776898384094
+Minimum: -0.4387180209159851
+Maximum: 0.3787855803966522
+
+
+Statistics of the weights for Conv2:
+Mean: -0.0013212646590545774
+Standard Deviation: 0.0164373479783535
+Minimum: -0.09997210651636124
+Maximum: 0.24618910253047943
+
+After epoch 30:
+Mean: -0.0009194970480166376
+Standard Deviation: 0.10141927748918533
+Minimum: -0.44039344787597656
+Maximum: 0.38213521242141724
+
+
+Statistics of the weights for Conv2:
+Mean: -0.0013188747689127922
+Standard Deviation: 0.016446096822619438
+Minimum: -0.09987905621528625
+Maximum: 0.24750854074954987
+
+
+After epoch 35:
+Statistics of the weights For Conv1:
+Mean: -0.0008271124679595232
+Standard Deviation: 0.10142587125301361
+Minimum: -0.44025006890296936
+Maximum: 0.3823316991329193
+
+
+Statistics of the weights for Conv2:
+Mean: -0.0013185280840843916
+Standard Deviation: 0.01644786261022091
+Minimum: -0.09988624602556229
+Maximum: 0.24718926846981049
+
+FOR RANDOM INPUTS:
+
+After epoch 1:
+Statistics of the weights for conv1:
+Mean: -0.00028619117802008986
+Standard Deviation: 0.06714173406362534
+Minimum: -0.1362558752298355
+Maximum: 0.13908034563064575
+Statistics of the weights for conv2:
+Mean: -2.7384683562559076e-05
+Standard Deviation: 0.009459340013563633
+Minimum: -0.041632574051618576
+Maximum: 0.039426274597644806
+
+After epoch 5:
+Statistics of the weights for conv1:
+Mean: -0.00034241395769640803
+Standard Deviation: 0.10283239185810089
+Minimum: -0.28280043601989746
+Maximum: 0.2936873733997345
+Statistics of the weights for conv2:
+Mean: -6.74635375617072e-05
+Standard Deviation: 0.023988500237464905
+Minimum: -0.14798946678638458
+Maximum: 0.13484548032283783
+
+After epoch 10:
+Statistics of the weights for conv1:
+Mean: -8.989992056740448e-05
+Standard Deviation: 0.13718333840370178
+Minimum: -0.375346839427948
+Maximum: 0.4146800637245178
+Statistics of the weights for conv2:
+Mean: -0.00014595765969716012
+Standard Deviation: 0.03361911699175835
+Minimum: -0.17729882895946503
+Maximum: 0.1781579703092575
+
+After epoch 15:
+Statistics of the weights for conv1:
+Mean: -0.00015023026207927614
+Standard Deviation: 0.13799573481082916
+Minimum: -0.3710062801837921
+Maximum: 0.4226124882698059
+Statistics of the weights for conv2:
+Mean: -0.00017851172015070915
+Standard Deviation: 0.03384320065379143
+Minimum: -0.18029756844043732
+Maximum: 0.17954403162002563
+
+After epoch 20:
+Statistics of the weights for conv1:
+Mean: -0.00014313205610960722
+Standard Deviation: 0.138011634349823
+Minimum: -0.36977264285087585
+Maximum: 0.4212784171104431
+Statistics of the weights for conv2:
+Mean: -0.000174950560904108
+Standard Deviation: 0.03384757041931152
+Minimum: -0.18103136122226715
+Maximum: 0.18062850832939148
+
+After epoch 25:
+Statistics of the weights for conv1:
+Mean: -0.00014303823991212994
+Standard Deviation: 0.13801565766334534
+Minimum: -0.36924120783805847
+Maximum: 0.4202778935432434
+Statistics of the weights for conv2:
+Mean: -0.00017778636538423598
+Standard Deviation: 0.033848680555820465
+Minimum: -0.18104170262813568
+Maximum: 0.18065136671066284
+
+After epoch 30:
+Statistics of the weights for conv1:
+Mean: -0.0001381168985972181
+Standard Deviation: 0.13801611959934235
+Minimum: -0.36866337060928345
+Maximum: 0.4198272228240967
+Statistics of the weights for conv2:
+Mean: -0.00017707467486616224
+Standard Deviation: 0.0338488444685936
+Minimum: -0.18118660151958466
+Maximum: 0.18057046830654144
+
+
+After epoch 35:
+Statistics of the weights for conv1:
+Mean: -0.00013383118493948132
+Standard Deviation: 0.1380169540643692
+Minimum: -0.3682897090911865
+Maximum: 0.41962286829948425
+Statistics of the weights for conv2:
+Mean: -0.00017715737340040505
+Standard Deviation: 0.0338490828871727
+Minimum: -0.18132580816745758
+Maximum: 0.18084174394607544
+
+FOR RANDOM LABELS:
+
+After epoch 1: 
+Statistics of the weights for conv1:
+Mean: 0.0014402834931388497
+Standard Deviation: 0.06657532602548599
+Minimum: -0.1202492043375969
+Maximum: 0.12546010315418243
+Statistics of the weights for conv2:
+Mean: 1.2323234841460362e-05
+Standard Deviation: 0.00836790818721056
+Minimum: -0.021537097170948982
+Maximum: 0.02380199357867241
+
+After epoch 5:
+Statistics of the weights for conv1:
+Mean: 0.0007301484583877027
+Standard Deviation: 0.06663425266742706
+Minimum: -0.1255444437265396
+Maximum: 0.12721401453018188
+Statistics of the weights for conv2:
+Mean: -9.810756455408409e-05
+Standard Deviation: 0.00843418762087822
+Minimum: -0.02317173033952713
+Maximum: 0.025999659672379494
+
+
+After epoch 10:
+Statistics of the weights for conv1:
+Mean: -3.0620081815868616e-05
+Standard Deviation: 0.06821497529745102
+Minimum: -0.15055972337722778
+Maximum: 0.15398463606834412
+Statistics of the weights for conv2:
+Mean: -0.00038281086017377675
+Standard Deviation: 0.009820611216127872
+Minimum: -0.05107180029153824
+Maximum: 0.0514327734708786
+
+After epoch 15:
+Statistics of the weights for conv1:
+Mean: -0.0008116937824524939
+Standard Deviation: 0.08198785781860352
+Minimum: -0.22721949219703674
+Maximum: 0.2580674886703491
+Statistics of the weights for conv2:
+Mean: -0.0010299512650817633
+Standard Deviation: 0.016114244237542152
+Minimum: -0.11532340198755264
+Maximum: 0.10177058726549149
+
+After epoch 20:
+Statistics of the weights for conv1:
+Mean: -0.0007678992697037756
+Standard Deviation: 0.08918122202157974
+Minimum: -0.2663481831550598
+Maximum: 0.29490116238594055
+Statistics of the weights for conv2:
+Mean: -0.0012091725366190076
+Standard Deviation: 0.018723202869296074
+Minimum: -0.13513682782649994
+Maximum: 0.11417605727910995
+
+After epoch 25:
+Statistics of the weights for conv1:
+Mean: -0.0008644768968224525
+Standard Deviation: 0.09554149955511093
+Minimum: -0.31301116943359375
+Maximum: 0.3253905177116394
+Statistics of the weights for conv2:
+Mean: -0.0013661013217642903
+Standard Deviation: 0.020905226469039917
+Minimum: -0.15100577473640442
+Maximum: 0.1255190223455429
+
+After epoch 30:
+Statistics of the weights for conv1:
+Mean: -0.0006790061015635729
+Standard Deviation: 0.09966716170310974
+Minimum: -0.32917800545692444
+Maximum: 0.36434948444366455
+Statistics of the weights for conv2:
+Mean: -0.001461752806790173
+Standard Deviation: 0.02228279784321785
+Minimum: -0.15504077076911926
+Maximum: 0.13589584827423096
+
+After epoch 35:
+Analysis after epoch 35
+Statistics of the weights for conv1:
+Mean: -0.0008247133810073137
+Standard Deviation: 0.09977958351373672
+Minimum: -0.32856327295303345
+Maximum: 0.36375561356544495
+Statistics of the weights for conv2:
+Mean: -0.0014812068548053503
+Standard Deviation: 0.022319544106721878
+Minimum: -0.15507958829402924
+Maximum: 0.13454358279705048
